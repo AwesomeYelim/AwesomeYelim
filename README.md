@@ -31,7 +31,7 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 <br/>  
 
 ## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://github.com/https://github.com/AwesomeYelim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -43,31 +43,15 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 ## Recent Blog Posts  
-
-
 ### https://velog.io/@uiop01900  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
+ 
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AwesomeYelim&show_icons=true&theme=dark)
