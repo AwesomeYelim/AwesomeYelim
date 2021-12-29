@@ -1,14 +1,9 @@
 ### Hi there 👋
 Hello, this is Yelim. I hope you guys enjoy my repositories 😎  
-  
-
+ 
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -32,21 +27,11 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
-
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/https://github.com/AwesomeYelim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -63,7 +48,7 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -80,14 +65,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
