@@ -2,10 +2,10 @@
 Hello, this is Yelim. I hope you guys enjoy my repositories 😎  
  
 <br/>  
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
 
-### Frontend  
+
+### Frontend 
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -45,13 +45,12 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
   
 <br/>  
 
+## Blog   
+### https://velog.io/@uiop01900  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-## Recent Blog Posts  
-### https://velog.io/@uiop01900  
- 
- </td></tr></table>
+
 
