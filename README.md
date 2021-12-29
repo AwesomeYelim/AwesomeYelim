@@ -48,9 +48,9 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 ### https://velog.io/@uiop01900  
 <br/>  
 
-## Github Stats  
+<!-- ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+ -->
 
 
 
