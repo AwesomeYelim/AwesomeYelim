@@ -30,7 +30,7 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 <br/>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/https://github.com/AwesomeYelim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -49,7 +49,7 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
