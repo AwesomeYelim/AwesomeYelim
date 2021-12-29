@@ -5,7 +5,6 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 
 
 ### Frontend 
-
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -47,6 +46,7 @@ Hello, this is Yelim. I hope you guys enjoy my repositories 😎
 
 ## Blog   
 ### https://velog.io/@uiop01900  
+<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
