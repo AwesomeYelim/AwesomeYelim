@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello, this is Yelim. I hope you guys enjoy my repositories 😎  
+### Hello, this is Yelim. I hope you guys enjoy my projects 😎  
  
 <br/>  
 
