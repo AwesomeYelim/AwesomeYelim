@@ -13,16 +13,18 @@ I'm Yelim Hong, Front-End developer <br/>
 <h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
 
 <p>
-<img src="https://img.shields.io/badge/Figma-pink?style=flat-square&logo=figma&logoColor=333"/>
-<img src="https://img.shields.io/badge/Illustration-orange?style=flat-square&logo=illustration&logoColor=333"/>
-<img src="https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=photoshop&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Three.js-764ABC?style=flat-square&logo=Three.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/WebGL-764ABC?style=flat-square&logo=WebGL&logoColor=fff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Three.js-764ABC?style=flat-square&logo=Three.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/WebGL-764ABC?style=flat-square&logo=WebGL&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Figma-pink?style=flat-square&logo=figma&logoColor=333"/>
+<img src="https://img.shields.io/badge/Illustration-orange?style=flat-square&logo=illustration&logoColor=333"/>
+<img src="https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=photoshop&logoColor=fff"/>
+
+
 </p>
 <br/> 
 
