@@ -40,8 +40,9 @@ I'm Yelim Hong, Front-End developer <br/>
 <br/> 
 
 ## Blog   
-### https://velog.io/@uiop01900
 ### https://awesomeyelim.tistory.com/
+### https://velog.io/@uiop01900
+
 <br/>  
 
 <!-- ## Github Stats  
