@@ -41,7 +41,6 @@ I'm Yelim Hong, Front-End developer <br/>
 
 ## Blog   
 ### https://awesomeyelim.tistory.com/
-### https://velog.io/@uiop01900
 
 <br/>  
 
