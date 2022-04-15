@@ -6,7 +6,7 @@
 
 </p>
 
-Hello there :smiley: <br/>
+AwesomeYelim <br/>
 I'm Yelim Hong, Front-End developer <br/>
 <br/> 
 
