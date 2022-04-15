@@ -2,7 +2,7 @@
 
 <p align="left">
 
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="30px" />&nbsp;<b>Hi, I'm Yelim</b>
+## <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="30px" />&nbsp;<b>Hi, I'm Yelim</b>
 
 </p>
 
