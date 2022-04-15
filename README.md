@@ -2,11 +2,12 @@
 
 <p align="left">
 
-## <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="30px" />&nbsp;<b>Hi, I'm Yelim</b>
+## <img src=https://user-images.githubusercontent.com/93499143/163560811-7529577e-b891-42b4-8dee-9e12865f61ee.gif width="150px"/>
+ 
 
 </p>
 
-AwesomeYelim <br/>
+Hi, there <br/>
 I'm Yelim Hong, Front-End developer <br/>
 <br/> 
 
