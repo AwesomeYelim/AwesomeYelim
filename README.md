@@ -39,9 +39,6 @@ I'm Yelim Hong, Front-End developer <br/>
 </div>  
 <br/> 
 
-## Blog   
-### https://awesomeyelim.tistory.com/
-
 <br/>  
 
 <!-- ## Github Stats  
