@@ -19,7 +19,6 @@ I'm Yelim Hong, Front-End developer <br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Three.js-764ABC?style=flat-square&logo=Three.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/WebGL-764ABC?style=flat-square&logo=WebGL&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Figma-pink?style=flat-square&logo=figma&logoColor=333"/>
 <img src="https://img.shields.io/badge/Illustration-orange?style=flat-square&logo=illustration&logoColor=333"/>
 <img src="https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=photoshop&logoColor=fff"/>
