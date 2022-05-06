@@ -1,5 +1,3 @@
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJogeonsang&count_bg=%2379C83D&title_bg=%23555555&icon=googleads.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false">
-
 
 ![cococo](https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif)
 
