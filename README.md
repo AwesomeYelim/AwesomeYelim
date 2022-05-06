@@ -1,17 +1,20 @@
 
-![cococo](https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif)
+<br/>
+<br/>
+<br/>
+<div width= '300' align="center">
+<img width= '300' src="https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif"/>
+  <br/>
+<i>Hi, there. I'm Yelim Hong, Front-End developer.</i>
 
-<p align="left">
+</div>
 
-</p>
-
-Hi, there <br/>
-I'm Yelim Hong, Front-End developer <br/>
-<br/> 
+<br/>
+<br/>
+<br/>
 
 <h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -24,9 +27,9 @@ I'm Yelim Hong, Front-End developer <br/>
 
 </p>
 <br/> 
+<h2>📮 &nbsp;Connect with me</h2>
 
-## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://github.com/AwesomeYelim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -44,7 +47,7 @@ I'm Yelim Hong, Front-End developer <br/>
 
 <h2>📈 &nbsp;Some Stats</h2>
 
-<div align=left>
+<div align="center">
 
 <img width="380"  src="https://github-readme-stats.vercel.app/api?username=AwesomeYelim&show_icons=true&count_private=true&theme=dracula" />
 
