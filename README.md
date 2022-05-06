@@ -41,9 +41,7 @@
 
 <br/>  
 
-<!-- ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Awesomeyelim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- -->
+<!-- 
 
 <h2>📈 &nbsp;Some Stats</h2>
 
@@ -53,4 +51,4 @@
 
 <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=AwesomeYelim&theme=dracula&date_format=%5BY%20%5DM%20j">
 
-</div>
+</div> -->
