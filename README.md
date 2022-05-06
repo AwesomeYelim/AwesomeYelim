@@ -3,7 +3,7 @@
 <br/>
 <br/>
 <div width= '320' align="center">
-<img width= '330' src="https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif"/>
+<img width= '320' src="https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif"/>
   <br/>
 <i>Hi, there. I'm Yelim Hong, Front-End developer.</i>
 
