@@ -16,6 +16,7 @@
 <h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
+<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-45b8d8?style=flat-square&logo=Typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=fff"/>
