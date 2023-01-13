@@ -45,12 +45,3 @@
 
 <br/>  
 
-
-
-<h2>📈 &nbsp;Some Stats</h2>
-
-<div align="center">
-
-<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=AwesomeYelim&theme=dracula&date_format=%5BY%20%5DM%20j">
-
-</div>
