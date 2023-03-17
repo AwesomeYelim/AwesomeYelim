@@ -21,7 +21,6 @@
 
 
 </p>
-<br/> 
 <h2>📮 &nbsp;Connect with me</h2>
 
 <div align="left">
