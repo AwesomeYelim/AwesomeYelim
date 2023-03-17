@@ -7,7 +7,8 @@
 
 <br/>
 
-<h2>👩🏻‍💻 &nbsp;Things I develop with </h2>
+<h2>👩🏻💻<i> ♪&nbsp; Things I develop with ＼(ﾟｰﾟ＼)</i></h2>
+
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
 <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-1F11B6?style=flat-square&logo=Typescript&logoColor=white" />
@@ -21,7 +22,7 @@
 
 
 </p>
-<h2>📮 &nbsp;Connect with me</h2>
+<h2> 📍<i>( ﾉ ﾟｰﾟ)ﾉ &nbsp;Connect with me </i></h2>
 
 <div align="left">
 <a href="https://github.com/AwesomeYelim" target="_blank">
