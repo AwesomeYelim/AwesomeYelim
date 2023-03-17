@@ -22,7 +22,7 @@
 
 
 </p>
-<h2> 📍<i>( ﾉ ﾟｰﾟ)ﾉ &nbsp;Connect with me </i></h2>
+<h2> 📍<i> &nbsp;Connect with me ♪ </i></h2>
 
 <div align="left">
 <a href="https://github.com/AwesomeYelim" target="_blank">
