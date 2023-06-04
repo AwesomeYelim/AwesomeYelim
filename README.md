@@ -7,7 +7,7 @@
 
 <br/>
 
-<h2>👩🏻💻<i> ♪&nbsp; Things I develop with ＼(ﾟｰﾟ＼)</i></h2>
+<h2>👩🏻💻<i> ♪&nbsp; Things I develop with</i></h2>
 
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
