@@ -1,11 +1,5 @@
 
-<br/>
-<div width= '320' align="left">
-<img width= '320' src="https://user-images.githubusercontent.com/93499143/167073633-a51ef591-3df7-4835-bbd8-ed9402898eb8.gif"/>
-  <br/>
-</div>
 
-<br/>
 
 <h2>👩🏻💻<i> ♪&nbsp; Things I develop with</i></h2>
 
