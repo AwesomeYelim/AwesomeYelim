@@ -5,14 +5,12 @@
 
 <p align="left">
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/> -->
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-1F11B6?style=flat-square&logo=Typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=Next.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Reactquery-red?style=flat-square&logo=Reactquery&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Recoil-3678E5?style=flat-square&logo=Recoil&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Node.js-darkgreen?style=flat-square&logo=Node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Mysql-3D6E93?style=flat-square&logo=Mysql&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=fff"/>
   
